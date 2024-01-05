@@ -32,7 +32,7 @@ A feed site that pulls all the content I post on other platforms and presents it
 - About
 - Feed me Seymour ($)
 
-Use can filter feed based on platform (use ARIA-polite, data-source="source"):
+Use can filter feed based on platform (use ARIA-polite, data-source="source", should include a direct link to sites):
 
 - [ ] Personal Site - build the feed functionality
 - [ ] LinkedIn - not sure how to consume a fee
