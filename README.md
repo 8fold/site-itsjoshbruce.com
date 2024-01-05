@@ -20,6 +20,8 @@
 
 {links or descriptions or license, versioning, and governance}
 
+Use: https://rss-parrot.net
+
 A feed site that pulls all the content I post on other platforms and presents it in a central location.
 
 - No index for bots.
@@ -32,11 +34,15 @@ A feed site that pulls all the content I post on other platforms and presents it
 
 Use can filter feed based on platform (use ARIA-polite, data-source="source"):
 
-- [ ] Personal Site
-- [ ] LinkedIn
-- [ ] PHP Community (Mastodon)
+- [ ] Personal Site - build the feed functionality
+- [ ] LinkedIn - not sure how to consume a fee
+- [ ] PHP Community (Mastodon) - consume rss feed, compile it
+- [ ] The Irreverent Agilists
+- [ ] Mastering the Mundane
+- [ ] HnS Works
+- [ ] GitHub (??)
 
 - ( ) Last 12 months
 - ( ) Last 24 months
 
-READ MORE: There was an article about not calling JS from inside HTML elements.
+READ MORE: There was an article about not calling JS from inside HTML elements. https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener
