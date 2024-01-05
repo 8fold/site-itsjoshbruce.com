@@ -19,3 +19,24 @@
 ## Other
 
 {links or descriptions or license, versioning, and governance}
+
+A feed site that pulls all the content I post on other platforms and presents it in a central location.
+
+- No index for bots.
+- No follow for bots.
+- Is there a link limit still with search engines on a per page about?
+
+- Home
+- About
+- Feed me Seymour ($)
+
+Use can filter feed based on platform (use ARIA-polite, data-source="source"):
+
+- [ ] Personal Site
+- [ ] LinkedIn
+- [ ] PHP Community (Mastodon)
+
+- ( ) Last 12 months
+- ( ) Last 24 months
+
+READ MORE: There was an article about not calling JS from inside HTML elements.
