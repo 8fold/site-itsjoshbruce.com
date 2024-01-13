@@ -20,6 +20,8 @@
 
 {links or descriptions or license, versioning, and governance}
 
+Monospace font? Stick with Atkinson?
+
 Use: https://rss-parrot.net
 
 A feed site that pulls all the content I post on other platforms and presents it in a central location.
