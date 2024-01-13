@@ -8,3 +8,4 @@ yarn-error.log
 .phpunit.result.cache
 .DS_Store
 composer.lock
+graphics.afdesign~lock~
